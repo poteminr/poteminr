@@ -1,4 +1,4 @@
-### Hey ✌🏻, I'm Roman, Data Scientist at `Sber`
+### Hey ✌🏻, I'm Roman, NLP Engineer
 The main field of activity is Natural Language Processing.
 
 Applied math student.
