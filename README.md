@@ -1,4 +1,5 @@
 ### Hey ✌🏻, I'm Roman, NLP Research Engineer
+The main field of activity is Natural Language Processing
 
 BSc in Applied Mathematics, NSU ’24
 
