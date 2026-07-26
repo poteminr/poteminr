@@ -1,4 +1,4 @@
-### Hey ✌🏻, I'm Roman, ML Engineer
+### Hey, I'm Roman, ML Engineer
 The main field of activity is Natural Language Processing
 
 BSc in Applied Mathematics, Novosibirsk State University ’24 
